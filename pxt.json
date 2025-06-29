@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "servo": "*"
+        "servo": "*",
+        "wuKong": "github:elecfreaks/pxt-wukong#v1.5.8"
     },
     "files": [
         "main.blocks",
